@@ -1,0 +1,8 @@
+title: Koudaix700.github.com
+description: my code storage
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
