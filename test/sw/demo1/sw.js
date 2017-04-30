@@ -6,6 +6,7 @@ self.addEventListener('fetch',function(event) {
             if(response.status === 404){
                 return new Response("World");
             }else{
+                //返回缓存的值
                 return response;
             }
         })
